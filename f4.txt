@@ -1,4 +1,1 @@
-hi
-I've modified my file
-2nd modification in f4.txt
-klasjkas
+I let it with Hi only
